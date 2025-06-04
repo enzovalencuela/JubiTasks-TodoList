@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+body {
+  background-color: var(--background);
+}
+
+/* Estilos para o tema claro (padrão) */
+:root {
+  --primary: #3b005e;
+  --secondary: #634982;
+  --background: #fef7dd;
+  --background-2: #faf4dd;
+  --subbackground: #e3e3e3;
+  --bgcard: #fff8e9;
+  --text: #3b005e;
+  --subText: #58157e;
+  --button: #392a33;
+  --buttonRed: #ff0000;
+  --buttonLightRed: #f64848;
+  --taskcompleted: #c6c6c6;
+}
+
+/* Estilos para o tema escuro */
+[data-theme="dark"] {
+  --primary: #0083dd;
+  --secondary: #00c9b7;
+  --background: #1e2939;
+  --background-2: #cde0e0;
+  --subbackground: #121b2a;
+  --bgcard: #121b2a;
+  --text: #dcdcdc;
+  --subText: #6c6c6c;
+  --buttonRed: #ff0000;
+  --buttonLightRed: #f64848;
+  --taskcompleted: #626262;
+}
+
+.touch-action-none {
+  touch-action: none !important;
+}
+
+.truncate-text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
