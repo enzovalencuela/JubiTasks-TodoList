@@ -1,4 +1,4 @@
-✨ Jubitasks: Sua Lista de Tarefas Inteligente!
+✨ Jubitasks: Sua Lista de Tarefas!
 Bem-vindo ao Jubitasks! Cansado de esquecer compromissos ou se perder na organização das suas tarefas? O Jubitasks é a solução perfeita para você! Desenvolvido para ser intuitivo e eficiente, ele te ajuda a gerenciar suas atividades diárias, projetos e ideias de forma simples e visual.
 
 🎯 Por Que Jubitasks?
@@ -113,24 +113,6 @@ JubiTasks-TodoList/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
-🧑‍💻 Boas Práticas da Equipe
-Para contribuir, siga nosso fluxo:
-
-Crie uma branch com o nome da feature ou correção: git checkout -b nome-da-feature
-
-Após finalizar, faça commit com mensagem clara: git commit -m "feat: nome da feature"
-
-Suba a branch: git push origin nome-da-feature
-
-Abra um Pull Request para revisão
-
-✅ Checklist para Novos Colaboradores
-[ ] Clonou o repositório?
-
-[ ] Instalou as dependências com npm install?
-
-[ ] Executou npm run dev e o projeto abriu normalmente?
 
 [ ] Está usando uma branch separada para suas alterações?
 
