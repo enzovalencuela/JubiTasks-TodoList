@@ -59,7 +59,7 @@ npm
 🌐 Acesse Agora!
 Experimente o Jubitasks e organize sua vida hoje mesmo:
 
-🔗 Deploy: https://megajr-back-end.onrender.com/
+🔗 Deploy: [https://enzovalencuela-jubitasks-todolist.netlify.app/](https://enzovalencuela-jubitasks-todolist.netlify.app/)
 
 🧑‍💻 Para Desenvolvedores
 Se você é um desenvolvedor e quer contribuir ou rodar o projeto localmente, siga os passos abaixo:
