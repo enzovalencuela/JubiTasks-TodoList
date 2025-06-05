@@ -95,27 +95,3 @@ npm run dev
 Depois, abra seu navegador e acesse:
 
 http://localhost:3000
-
-📁 Estrutura do Projeto
-JubiTasks-TodoList/
-├── public/              → arquivos públicos (imagens, ícones, etc.)
-├── src/
-│   └── app/             → estrutura de rotas e layout (App Router)
-│       ├── favicon.ico
-│       ├── globals.css  → estilos globais com Tailwind
-│       ├── layout.js    → layout principal da aplicação
-│       └── page.js      → página inicial
-├── .gitignore
-├── eslint.config.mjs    → configuração do ESLint
-├── jsconfig.json        → configurações de importações
-├── next.config.mjs      → configurações do Next.js
-├── postcss.config.mjs   → configurações do PostCSS (Tailwind)
-├── package.json
-├── package-lock.json
-└── README.md
-
-[ ] Está usando uma branch separada para suas alterações?
-
-[ ] Seguiu o padrão do App Router (src/app)?
-
-Jubitasks: Mais produtividade, menos preocupação!
