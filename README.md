@@ -1,104 +1,52 @@
-# 💻 MegaJR - Front-End
+✨ Jubitasks: Organize Suas Tarefas com Simplicidade!
+Bem-vindo ao Jubitasks! Uma ferramenta intuitiva e eficiente, desenvolvida para ajudar você a organizar suas tarefas diárias, projetos e ideias, tudo em um só lugar. Chega de esquecimentos e desorganização – com o Jubitasks, você mantém o controle total da sua produtividade.
 
-Repositório do projeto Front-End do Grupo 3 da Mega, desenvolvido com **React**, **Next.js (App Router)** e **Tailwind CSS**.
+🎯 O que é o Jubitasks?
+Jubitasks é a sua lista de tarefas pessoal, projetada para ser fácil de usar e visualmente agradável. Nosso objetivo é simplificar a sua rotina, permitindo que você foque no que realmente importa.
 
-🔗 **Deploy:** [https://megajr-back-end.onrender.com/](https://megajr-back-end.onrender.com)
+🚀 Funcionalidades Principais
+Com o Jubitasks, você pode:
 
----
+Adicionar Novas Tarefas: Crie rapidamente novas tarefas para não perder nenhuma ideia ou compromisso.
 
-## 🚀 Tecnologias utilizadas
+Marcar como Concluída: Mantenha o progresso das suas atividades marcando-as como finalizadas.
 
-- [React](https://reactjs.org/)
-- [Next.js 13+ (App Router)](https://nextjs.org/docs/app)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [npm](https://www.npmjs.com/)
+Editar Tarefas Existentes: Altere os detalhes de uma tarefa a qualquer momento.
 
----
+Excluir Tarefas: Remova tarefas que não são mais necessárias.
 
-## ⚙️ Pré-requisitos
+Visualização Clara: Veja todas as suas tarefas de forma organizada e intuitiva.
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/) (versão LTS recomendada)
-- [npm](https://www.npmjs.com/)
+💡 Como Funciona?
+Usar o Jubitasks é muito simples:
 
----
+Acesse o Aplicativo: Abra o Jubitasks no seu navegador.
 
-## 📥 Como clonar o projeto
+Adicione uma Tarefa: Digite o nome da sua tarefa no campo indicado e clique em "Adicionar".
 
-Abra o terminal e execute os comandos abaixo:
+Gerencie suas Tarefas:
 
-```bash
-# Clone o repositório
-git clone https://github.com/MEGA-JR-Grupo-3/megajr-front-end.git
+Clique no ícone de "Concluído" (✅) para marcar uma tarefa como feita.
 
-# Acesse a pasta do projeto
-cd megajr-front-end
-```
+Clique no ícone de "Editar" (✏️) para modificar o texto de uma tarefa.
 
----
+Clique no ícone de "Excluir" (🗑️) para remover uma tarefa.
 
-## 📦 Instalando as dependências
+🛠️ Tecnologias Utilizadas
+O Jubitasks foi construído com tecnologias modernas para oferecer a melhor experiência:
 
-```bash
-npm install
-```
+React: Para uma interface de usuário dinâmica e responsiva.
 
----
+Next.js (App Router): Para um desempenho otimizado e uma estrutura robusta.
 
-## 🧪 Executando o projeto localmente
+Tailwind CSS: Para um design elegante e personalizável.
 
-```bash
-npm run dev
-```
+🌐 Acesse Agora!
+Experimente o Jubitasks e comece a organizar sua vida hoje mesmo:
 
-Depois disso, abra o navegador e acesse:
+🔗 [https://enzovalencuela-jubitasks-todolist.netlify.app/](https://enzovalencuela-jubitasks-todolist.netlify.app/)
 
-```
-http://localhost:3000
-```
+💖 Feedback e Contribuições
+Sua opinião é muito importante para nós! Se tiver sugestões, ideias ou encontrar algum problema, sinta-se à vontade para nos contatar ou abrir uma issue no repositório.
 
----
-
-## 📁 Estrutura do projeto
-
-```
-megajr-front-end/
-├── public/                 → arquivos públicos (imagens, ícones, etc.)
-├── src/
-│   └── app/                → estrutura de rotas e layout (App Router)
-│       ├── favicon.ico
-│       ├── globals.css     → estilos globais com Tailwind
-│       ├── layout.js       → layout principal da aplicação
-│       └── page.js         → página inicial
-├── .gitignore
-├── eslint.config.mjs      → configuração do ESLint
-├── jsconfig.json          → configurações de importações
-├── next.config.mjs        → configurações do Next.js
-├── postcss.config.mjs     → configurações do PostCSS (Tailwind)
-├── package.json
-├── package-lock.json
-└── README.md
-```
-
----
-
-## 🧑‍💻 Boas práticas da equipe
-
-- Crie uma branch com o nome da feature ou correção: `git checkout -b nome-da-feature`
-- Após finalizar, faça commit com mensagem clara: `git commit -m "feat: nome da feature"`
-- Suba a branch: `git push origin nome-da-feature`
-- Abra um Pull Request para revisão
-
----
-
-## ✅ Checklist para novos colaboradores
-
-- [ ] Clonou o repositório?
-- [ ] Instalou as dependências com `npm install`?
-- [ ] Executou `npm run dev` e o projeto abriu normalmente?
-- [ ] Está usando uma branch separada para suas alterações?
-- [ ] Seguiu o padrão do App Router (`src/app`)?
-
----
-
-Pronto! Agora você pode começar a codar 🎯
+Jubitasks: Mais produtividade, menos preocupação!
